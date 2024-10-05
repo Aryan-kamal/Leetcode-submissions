@@ -14,7 +14,7 @@ public:
                 i++;
             }
             answer.push_back(newInterval);
-            while(i<n){
+            while(i<n && intervals[i][0]>newInterval[1]){
                 answer.push_back(intervals[i]);
                 i++;
             }
