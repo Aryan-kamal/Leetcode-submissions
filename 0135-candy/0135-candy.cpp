@@ -26,6 +26,7 @@ public:
         // return sum;
 
         // Optimal greedy soln - using slope concept (TC-n,SC-1)
+        
         int n=ratings.size();
         int sum=1,i=1;
         while(i<n){
