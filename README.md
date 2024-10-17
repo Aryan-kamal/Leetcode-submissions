@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0057-insert-interval) |
+| [0088-merge-sorted-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0455-assign-cookies) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## String
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
