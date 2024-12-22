@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0058-length-of-last-word) |
 | [0678-valid-parenthesis-string](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Simulation
