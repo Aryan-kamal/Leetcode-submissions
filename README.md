@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0231-power-of-two) |
 | [1014-k-closest-points-to-origin](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
+| [2050-count-good-numbers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2050-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0231-power-of-two) |
+| [2050-count-good-numbers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2050-count-good-numbers) |
 ## Geometry
 |  |
 | ------- |
