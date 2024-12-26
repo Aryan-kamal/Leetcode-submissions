@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
