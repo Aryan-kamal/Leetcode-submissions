@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0058-length-of-last-word) |
 | [0567-permutation-in-string](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0046-permutations) |
