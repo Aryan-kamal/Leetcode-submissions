@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0045-jump-game-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0567-permutation-in-string) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0046-permutations) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0079-word-search) |
 ## Trie
 |  |
