@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0139-word-break) |
 | [0435-non-overlapping-intervals](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
+| [0629-k-inverse-pairs-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0629-k-inverse-pairs-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 ## Stack
