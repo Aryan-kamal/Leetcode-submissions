@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1236-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0282-expression-add-operators) |
 | [1013-fibonacci-number](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
+| [1236-n-th-tribonacci-number](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1236-n-th-tribonacci-number) |
 | [2050-count-good-numbers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2050-count-good-numbers) |
 ## Bit Manipulation
 |  |
@@ -246,4 +248,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
