@@ -9,8 +9,6 @@ public:
     int fn(int i, int j, int n, vector<vector<int>>& triangle,vector<vector<int>> &dp) {
         if (i == n - 1)
             return triangle[i][j];
-        if (j > i+1)
-            return INT_MAX;
         if (dp[i][j] != -1)
             return dp[i][j];
         return dp[i][j]=triangle[i][j] +
