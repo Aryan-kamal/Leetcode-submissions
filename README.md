@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0139-word-break) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0282-expression-add-operators) |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1236-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
