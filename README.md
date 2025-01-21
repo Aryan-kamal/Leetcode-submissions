@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0139-word-break) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0079-word-search) |
 ## Trie
 |  |
