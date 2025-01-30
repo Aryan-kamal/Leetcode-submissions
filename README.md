@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1829-maximum-units-on-a-truck](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1829-maximum-units-on-a-truck) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-minimum-path-cost-in-a-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1559-cherry-pickup-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1559-cherry-pickup-ii) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1224-minimum-falling-path-sum-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1559-cherry-pickup-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1559-cherry-pickup-ii) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Trie
 |  |
 | ------- |
