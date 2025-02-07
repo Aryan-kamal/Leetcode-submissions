@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0494-target-sum) |
 | [0621-task-scheduler](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0658-find-k-closest-elements) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0494-target-sum) |
 | [0629-k-inverse-pairs-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0629-k-inverse-pairs-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0282-expression-add-operators) |
+| [0494-target-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0494-target-sum) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Depth-First Search
 |  |
