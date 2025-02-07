@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1829-maximum-units-on-a-truck) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1559-cherry-pickup-ii) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Stack
 |  |
 | ------- |
