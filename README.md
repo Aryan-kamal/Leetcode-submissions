@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0455-assign-cookies) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0058-length-of-last-word) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0055-jump-game) |
