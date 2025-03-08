@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Simulation
 |  |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0658-find-k-closest-elements) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Bucket Sort
 |  |
 | ------- |
