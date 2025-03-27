@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0079-word-search) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0135-candy) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0062-unique-paths) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0231-power-of-two) |
