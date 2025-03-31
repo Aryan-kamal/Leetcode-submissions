@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1025-minimum-cost-for-tickets) |
 | [1039-find-the-town-judge](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1039-find-the-town-judge) |
+| [1129-longest-string-chain](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1130-last-stone-weight-ii) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0876-hand-of-straights) |
 | [1039-find-the-town-judge](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1039-find-the-town-judge) |
+| [1129-longest-string-chain](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0658-find-k-closest-elements) |
+| [1129-longest-string-chain](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1129-longest-string-chain) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
+| [1129-longest-string-chain](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0876-hand-of-straights](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
+| [1129-longest-string-chain](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -206,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1025-minimum-cost-for-tickets) |
+| [1129-longest-string-chain](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1130-last-stone-weight-ii) |
 | [1170-shortest-common-supersequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1170-shortest-common-supersequence) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1224-minimum-falling-path-sum-ii) |
