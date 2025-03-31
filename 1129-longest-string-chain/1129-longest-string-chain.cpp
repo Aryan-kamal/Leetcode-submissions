@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool checkpossible(string s1, string s2) {
+    bool checkpossible(string &s1, string &s2) {
         int n = s1.size();
         int m = s2.size();
         if (n != m + 1)
