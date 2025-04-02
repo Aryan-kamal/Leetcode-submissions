@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0120-triangle) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0678-valid-parenthesis-string](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 ## Divide and Conquer
 |  |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0967-minimum-falling-path-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1394-minimum-path-cost-in-a-grid) |
@@ -370,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
