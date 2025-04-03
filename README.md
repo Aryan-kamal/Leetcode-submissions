@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0455-assign-cookies) |
