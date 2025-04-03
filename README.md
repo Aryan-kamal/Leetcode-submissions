@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2444-longest-ideal-subsequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2444-longest-ideal-subsequence) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Graph
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2444-longest-ideal-subsequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2444-longest-ideal-subsequence) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Simulation
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1559-cherry-pickup-ii) |
+| [2444-longest-ideal-subsequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2444-longest-ideal-subsequence) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
