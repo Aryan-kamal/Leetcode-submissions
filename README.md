@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-longest-ideal-subsequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2444-longest-ideal-subsequence) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Graph
 |  |
 | ------- |
