@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1559-cherry-pickup-ii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1829-maximum-units-on-a-truck](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1829-maximum-units-on-a-truck) |
+| [1876-map-of-highest-peak](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1876-map-of-highest-peak) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-minimum-path-cost-in-a-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1559-cherry-pickup-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1559-cherry-pickup-ii) |
+| [1876-map-of-highest-peak](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1876-map-of-highest-peak) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1104-coloring-a-border](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1104-coloring-a-border) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1876-map-of-highest-peak](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1876-map-of-highest-peak) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Indexed Tree
 |  |
