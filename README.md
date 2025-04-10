@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0658-find-k-closest-elements) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0583-delete-operation-for-two-strings) |
 | [0629-k-inverse-pairs-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0629-k-inverse-pairs-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1036-rotting-oranges) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1036-rotting-oranges) |
