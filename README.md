@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1039-find-the-town-judge) |
+| [1073-number-of-enclaves](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1104-coloring-a-border) |
 | [1129-longest-string-chain](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1130-last-stone-weight-ii) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0695-max-area-of-island) |
+| [1073-number-of-enclaves](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1104-coloring-a-border) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1104-coloring-a-border) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1394-minimum-path-cost-in-a-grid) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1104-coloring-a-border) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1876-map-of-highest-peak](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1876-map-of-highest-peak) |
@@ -463,5 +467,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0695-max-area-of-island) |
+| [1073-number-of-enclaves](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
