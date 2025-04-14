@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0037-sudoku-solver) |
+| [0127-word-ladder](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0567-permutation-in-string) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0282-expression-add-operators) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0210-course-schedule-ii) |
