@@ -35,3 +35,49 @@ public:
         return -1;
     }
 };
+
+// Shortest path in a grid (using dijkstra) with weights - 
+// // Function to find the shortest path using Dijkstra's algorithm in a grid.
+// int shortestPath(vector<vector<int>>& grid) {
+//     int n = grid.size();
+//     if (n == 0) return -1;
+//     int m = grid[0].size();
+//     // Create a distance grid initialized to a large number.
+//     vector<vector<int>> dist(n, vector<int>(m, INT_MAX));
+//     dist[0][0] = grid[0][0]; // Start at (0, 0) and include its cost.
+//     // Priority queue (min-heap) with elements formatted as (cost, row, col)
+//     priority_queue<tuple<int, int, int>, 
+//                    vector<tuple<int, int, int>>, 
+//                    greater<tuple<int, int, int>>> pq;
+//     // Push the starting cell.
+//     pq.push({grid[0][0], 0, 0});
+//     // Define directions for moving up, down, left, and right.
+//     vector<pair<int, int>> directions = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
+//     // Process the queue until it's empty.
+//     while (!pq.empty()) {
+//         // Get the element with the lowest cost.
+//         auto [cost, row, col] = pq.top();
+//         pq.pop();
+//         // If we reached the bottom-right cell, we found the shortest path.
+//         if (row == n - 1 && col == m - 1) {
+//             return cost;
+//         }
+//         // Explore all four possible neighbors.
+//         for (auto& [dr, dc] : directions) {
+//             int newRow = row + dr;
+//             int newCol = col + dc;
+//             // Check if neighbor is within the grid bounds.
+//             if (newRow >= 0 && newRow < n && newCol >= 0 && newCol < m) {
+//                 // Calculate new cost: current path cost + cost of neighbor cell.
+//                 int newCost = cost + grid[newRow][newCol];
+//                 // If this new cost is lower than the recorded cost, update it.
+//                 if (newCost < dist[newRow][newCol]) {
+//                     dist[newRow][newCol] = newCost;
+//                     pq.push({newCost, newRow, newCol});
+//                 }
+//             }
+//         }
+//     }
+//     // Return the recorded distance for cell (n-1, m-1).
+//     return dist[n-1][m-1];
+// }
