@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0794-swim-in-rising-water](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0794-swim-in-rising-water) |
 | [0876-hand-of-straights](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0890-lemonade-change) |
 | [0967-minimum-falling-path-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0967-minimum-falling-path-sum) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0658-find-k-closest-elements) |
+| [0794-swim-in-rising-water](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0794-swim-in-rising-water) |
 | [1014-k-closest-points-to-origin](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1753-path-with-minimum-effort](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1753-path-with-minimum-effort) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0658-find-k-closest-elements) |
+| [0794-swim-in-rising-water](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1753-path-with-minimum-effort) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
@@ -418,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0794-swim-in-rising-water) |
 | [0967-minimum-falling-path-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
@@ -463,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1036-rotting-oranges) |
@@ -509,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1753-path-with-minimum-effort) |
