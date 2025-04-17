@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1039-find-the-town-judge) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Two Pointers
 |  |
 | ------- |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1559-cherry-pickup-ii) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2444-longest-ideal-subsequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2444-longest-ideal-subsequence) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Merge Sort
 |  |
 | ------- |
@@ -547,4 +550,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
