@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [1129-longest-string-chain](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1129-longest-string-chain) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
 ## String
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2650-split-with-minimum-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2650-split-with-minimum-sum) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Dynamic Programming
 |  |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1753-path-with-minimum-effort) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Sliding Window
 |  |
