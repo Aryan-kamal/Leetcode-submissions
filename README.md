@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1039-find-the-town-judge) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Two Pointers
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1104-coloring-a-border) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1753-path-with-minimum-effort) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Matrix
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1104-coloring-a-border](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1104-coloring-a-border) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1876-map-of-highest-peak) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1753-path-with-minimum-effort) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2914-find-the-safest-path-in-a-grid) |
