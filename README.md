@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0721-accounts-merge](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0876-hand-of-straights) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0797-rabbits-in-forest](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0876-hand-of-straights) |
 | [1039-find-the-town-judge](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1039-find-the-town-judge) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0721-accounts-merge](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [1129-longest-string-chain](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1250-longest-common-subsequence) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0658-find-k-closest-elements) |
+| [0721-accounts-merge](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1129-longest-string-chain](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1129-longest-string-chain) |
@@ -421,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -490,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -539,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
