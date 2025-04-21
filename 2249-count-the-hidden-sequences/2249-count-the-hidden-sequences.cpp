@@ -19,6 +19,11 @@ public:
         // return cnt;
 
         // M-2 optimal
+        // α = no. of shifts = number of possible hidden seq.
+        // maxval+α≤U => α≤U−maxval
+        // minval+α≥L => α≥L−minval
+        // Hence, 
+        // α≡[L−minval,U−maxval] => α = U-maxval - (L-minval) + 1
         long sum = 0, maxi = 0, mini = 0; // we can any value here in place of 0 but all 3 variable will have same value 
         for (int i : differences) {
             sum += i;
