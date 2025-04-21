@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1876-map-of-highest-peak) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2249-count-the-hidden-sequences](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2249-count-the-hidden-sequences) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -578,4 +579,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Prefix Sum
+|  |
+| ------- |
+| [2249-count-the-hidden-sequences](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2249-count-the-hidden-sequences) |
 <!---LeetCode Topics End-->
