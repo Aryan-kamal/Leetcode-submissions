@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1500-count-largest-group](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1500-count-largest-group) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2444-longest-ideal-subsequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2444-longest-ideal-subsequence) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1236-n-th-tribonacci-number) |
+| [1500-count-largest-group](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
