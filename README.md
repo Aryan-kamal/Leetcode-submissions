@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-longest-ideal-subsequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2444-longest-ideal-subsequence) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3548-find-the-count-of-good-integers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
