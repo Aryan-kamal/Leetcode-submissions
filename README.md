@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1224-minimum-falling-path-sum-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1394-minimum-path-cost-in-a-grid) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1559-cherry-pickup-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1559-cherry-pickup-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1129-longest-string-chain) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1500-count-largest-group](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1500-count-largest-group) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Greedy
 |  |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1394-minimum-path-cost-in-a-grid) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1559-cherry-pickup-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1559-cherry-pickup-ii) |
 | [1753-path-with-minimum-effort](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1753-path-with-minimum-effort) |
