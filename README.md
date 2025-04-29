@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2249-count-the-hidden-sequences](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2249-count-the-hidden-sequences) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
