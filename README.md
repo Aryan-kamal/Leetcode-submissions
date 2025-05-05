@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-sliding-puzzle](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0806-domino-and-tromino-tiling](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0806-domino-and-tromino-tiling) |
 | [0967-minimum-falling-path-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1025-minimum-cost-for-tickets) |
