@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 ## Divide and Conquer
 |  |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0079-word-search) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0210-course-schedule-ii) |
@@ -571,11 +573,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Enumeration
 |  |
