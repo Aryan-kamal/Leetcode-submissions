@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1500-count-largest-group](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1500-count-largest-group) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2444-longest-ideal-subsequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2444-longest-ideal-subsequence) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1039-find-the-town-judge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Two Pointers
 |  |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1559-cherry-pickup-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1559-cherry-pickup-ii) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2444-longest-ideal-subsequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2444-longest-ideal-subsequence) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0621-task-scheduler) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Math
@@ -536,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0787-sliding-puzzle) |
 | [1013-fibonacci-number](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1236-n-th-tribonacci-number) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Combinatorics
 |  |
 | ------- |
@@ -657,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0820-find-eventual-safe-states) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Merge Sort
 |  |
