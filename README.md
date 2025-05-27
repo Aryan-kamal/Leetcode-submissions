@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0794-swim-in-rising-water](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0794-swim-in-rising-water) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0231-power-of-two) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
