@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1753-path-with-minimum-effort) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Matrix
