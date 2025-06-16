@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1876-map-of-highest-peak) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2249-count-the-hidden-sequences) |
