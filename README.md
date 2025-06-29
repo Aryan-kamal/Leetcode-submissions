@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0062-unique-paths) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0060-permutation-sequence) |
@@ -782,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Search Tree
 |  |
