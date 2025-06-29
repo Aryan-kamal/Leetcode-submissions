@@ -11,6 +11,11 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+        // here digits are stored in revered order so its no problem 
+        // other we have to reverse the linked list first then code same 
+
+        // also in this ques it is said that that there wont be leading 0's so no problem otherwsie we would have to deal with them also before returning
+        // in this code we are returing reversed ll only 
         ListNode* t1 = l1;
         ListNode* t2 = l2;
         ListNode* dummy = new ListNode(-1);
@@ -38,3 +43,13 @@ public:
         return dummy->next;
     }
 };
+
+// Helper function to remove leading zeroes
+// Node* removeLeadingZeroes(Node* head) {
+//     while (head && head->data == 0 && head->next != NULL) {
+//         Node* temp = head;
+//         head = head->next;
+//         delete temp;
+//     }
+//     return head;
+// }
