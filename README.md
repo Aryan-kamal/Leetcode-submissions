@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2050-count-good-numbers) |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0206-reverse-linked-list](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0206-reverse-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
