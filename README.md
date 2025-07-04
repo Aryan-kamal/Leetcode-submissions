@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3548-find-the-count-of-good-integers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3548-find-the-count-of-good-integers) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Bit Manipulation
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0231-power-of-two) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2050-count-good-numbers) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Geometry
 |  |
 | ------- |
