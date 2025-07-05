@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1559-cherry-pickup-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1559-cherry-pickup-ii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1500-count-largest-group](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1500-count-largest-group) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0621-task-scheduler) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
