@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0282-expression-add-operators) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0231-power-of-two) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0231-power-of-two) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2050-count-good-numbers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
