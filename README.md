@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2650-split-with-minimum-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2650-split-with-minimum-sum) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -752,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3548-find-the-count-of-good-integers) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Union Find
 |  |
 | ------- |
