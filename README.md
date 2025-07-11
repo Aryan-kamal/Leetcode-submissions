@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Linked List
@@ -824,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
@@ -842,4 +845,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0173-binary-search-tree-iterator) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
