@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0721-accounts-merge) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0794-swim-in-rising-water](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -836,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0328-odd-even-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search Tree
@@ -854,4 +856,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0146-lru-cache) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
