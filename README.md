@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0721-accounts-merge) |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1129-longest-string-chain](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1250-longest-common-subsequence) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 ## Divide and Conquer
 |  |
 | ------- |
