@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0890-lemonade-change) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1829-maximum-units-on-a-truck) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1045-check-if-word-is-valid-after-substitutions) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
