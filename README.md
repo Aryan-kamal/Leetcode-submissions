@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3790-fruits-into-baskets-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3791-fruits-into-baskets-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3791-fruits-into-baskets-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -832,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3791-fruits-into-baskets-iii) |
 ## Shortest Path
 |  |
 | ------- |
