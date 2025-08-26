@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-last-stone-weight-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1130-last-stone-weight-ii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1129-longest-string-chain) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1104-coloring-a-border](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1104-coloring-a-border) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
