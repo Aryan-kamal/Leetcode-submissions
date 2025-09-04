@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3830-find-closest-person](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |
