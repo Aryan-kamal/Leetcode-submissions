@@ -4,6 +4,6 @@ public:
         int a = abs(z - x), b = abs(z - y);
         if (a == b)
             return 0;
-        return a > b ? 2 :1;
+        return a > b ? 2 : 1;
     }
 };
