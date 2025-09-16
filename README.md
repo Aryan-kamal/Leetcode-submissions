@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2650-split-with-minimum-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2650-split-with-minimum-sum) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2650-split-with-minimum-sum](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2650-split-with-minimum-sum) |
 | [2998-count-symmetric-integers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3548-find-the-count-of-good-integers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -802,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/2998-count-symmetric-integers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3548-find-the-count-of-good-integers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Aryan-kamal/Leetcode-submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Union Find
